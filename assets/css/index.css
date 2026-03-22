@@ -147,11 +147,11 @@
 
 .services-card-container .image-container, 
 .deal-process-card-container .image-container{
+    margin-bottom: 1rem;
     aspect-ratio: 2/1;
 }
 .services-card-container .image-container img, 
 .deal-process-card-container .image-container img{
-    margin-bottom: 1rem;
     aspect-ratio: 2/1;
 }
 

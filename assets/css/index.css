@@ -146,7 +146,9 @@
 
 
 .services-card-container .image-container, 
-.deal-process-card-container .image-container,
+.deal-process-card-container .image-container{
+    aspect-ratio: 2/1;
+}
 .services-card-container .image-container img, 
 .deal-process-card-container .image-container img{
     margin-bottom: 1rem;
@@ -163,13 +165,6 @@
     .preview-information-content *{
         text-align: left;
         max-width: 600px;
-    }
-    .services-card-container .image-container, 
-    .deal-process-card-container .image-container,
-    .services-card-container .image-container img, 
-    .deal-process-card-container .image-container img{
-        margin-bottom: 1rem;
-        aspect-ratio: 2/1;
     }
     .hero-section .image-container{
         aspect-ratio: 3/2;
@@ -236,13 +231,6 @@
     }
     .main-content{
         gap: 3rem;
-    }
-    .services-card-container .image-container, 
-    .deal-process-card-container .image-container,
-    .services-card-container .image-container img, 
-    .deal-process-card-container .image-container img{
-        margin-bottom: 1rem;
-        aspect-ratio: 2/1;
     }
 }
 

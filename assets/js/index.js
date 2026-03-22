@@ -443,7 +443,7 @@ window.addEventListener("DOMContentLoaded", () => {
         const BandPlayer = new ProjectCard( 
             "Band Player", 
             "PlaceHolder for Desktop Application", 
-            "../media/image/project_icons/Band player.png", 
+            "../media/image/project_icons/Band Player.png", 
             "Desktop App", 
             "proj-desktop1",
             `

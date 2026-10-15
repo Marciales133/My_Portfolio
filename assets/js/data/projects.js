@@ -52,7 +52,7 @@ export const projects = [
     "websiteUrl": "https://streetflex.vercel.app/index.html",
     "category": "E-commerce",
     "cardDescription": "E-Commerce website for street wear",
-    "thumbnail": "../media/image/project_icons/streetflexImg3.jpg",
+    "thumbnail": "../media/image/project_icons/streetFlexImg3.jpg",
     "overviewGallery": [],
     "details": {
       "projectName": "Street Flex",
